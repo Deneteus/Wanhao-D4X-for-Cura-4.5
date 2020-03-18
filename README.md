@@ -1,5 +1,8 @@
-# Wanhao D4X for Cura 4.5
+# Wanhao D4X Profile for Cura 4.5
  Wanhao D4X for Cura 4.5
+
+**Dual Extruders
+**Stock Settings
 
 To use this profile.
 
